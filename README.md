@@ -1,5 +1,6 @@
 # Command-Based-Text-Editor
 Implimentation of Command Based ''Line'' Text Editor using C++ programming language.</br>
+This Command Based Text Editor is created using Stacks and Linked List Data Structures.</br>
 Some of the most common text editors used now a days are VS Code, Atom, Notepad etc.</br>
 One can work in txt file using this Editor.</br>
 
